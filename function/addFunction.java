@@ -16,5 +16,6 @@ public class addFunction {
 
         int z = addTwoNumber(x, y);
         System.out.println(z);
+        sc.close();
     }
 }

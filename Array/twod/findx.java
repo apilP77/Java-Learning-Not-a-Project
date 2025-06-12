@@ -47,5 +47,6 @@ public class findx {
             System.out.println("Number not found !");
 
         }
+        sc.close();
     }
 }

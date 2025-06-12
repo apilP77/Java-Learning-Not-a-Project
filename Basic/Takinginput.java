@@ -6,5 +6,6 @@ public class Takinginput {
         String name = sc.next();
         System.out.println(name);
         System.out.println();
+        sc.close();
     }
 }

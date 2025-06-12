@@ -17,5 +17,6 @@ public class q1 {
         int z = sc.nextInt();
 
         System.out.println("Average is " + avg(x, y, z));
+        sc.close();
     }
 }

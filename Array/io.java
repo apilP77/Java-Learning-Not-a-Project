@@ -19,5 +19,6 @@ public class io {
             System.out.println(number[i]);
 
         }
+        sc.close();
     }
 }

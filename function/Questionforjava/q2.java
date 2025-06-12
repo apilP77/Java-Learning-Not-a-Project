@@ -21,5 +21,6 @@ public class q2 {
         int a = sc.nextInt();
 
         System.out.println("the sum of odd " + sumOdd(a));
+        sc.close();
     }
 }

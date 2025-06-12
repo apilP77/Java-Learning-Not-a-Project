@@ -38,5 +38,6 @@ public class basic {
             System.err.println();
 
         }
+        sc.close();
     }
 }

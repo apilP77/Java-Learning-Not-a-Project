@@ -15,5 +15,6 @@ public class comparing2number {
         } else {
             System.out.println(" Both are equal");
         }
+        sc.close();
     }
 }

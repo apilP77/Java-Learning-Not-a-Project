@@ -22,6 +22,6 @@ public class q6 {
         int b = sc.nextInt();
 
         System.out.println("The output is " + gcd(a, b));
-
+        sc.close();
     }
 }

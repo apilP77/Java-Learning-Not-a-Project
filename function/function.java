@@ -12,5 +12,6 @@ public class function {
         String nam = sc.next();
 
         printMyName(nam);
+        sc.close();
     }
 }

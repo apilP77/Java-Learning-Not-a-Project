@@ -10,6 +10,7 @@ public class condition {
         } else {
             System.out.println("He is not Eligiable for voting sorry");
         }
+        sc.close();
 
     }
 }

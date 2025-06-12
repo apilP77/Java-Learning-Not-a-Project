@@ -21,6 +21,7 @@ public class q5 {
             int b = sc.nextInt();
 
             System.out.println("The output is " + power(a, b));
+            sc.close();
         }
     }
 }

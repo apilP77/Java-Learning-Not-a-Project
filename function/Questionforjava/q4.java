@@ -16,6 +16,7 @@ public class q4 {
         float a = sc.nextInt();
 
         System.out.println("The Perimeter is " + perimeter(a));
+        sc.close();
 
     }
 }

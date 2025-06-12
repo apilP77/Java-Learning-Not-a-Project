@@ -19,5 +19,6 @@ public class factorial {
 
         int z = fact(a);
         System.out.println(z);
+        sc.close();
     }
 }

@@ -22,5 +22,6 @@ public class switchcase {
                 System.out.println("The Input is Error");
                 break;
         }
+        sc.close();
     }
 }

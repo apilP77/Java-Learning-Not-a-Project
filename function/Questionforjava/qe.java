@@ -22,6 +22,6 @@ public class qe {
         int b = sc.nextInt();
 
         System.out.print("The Graetest is " + compare(a, b));
-
+        sc.close();
     }
 }

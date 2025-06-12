@@ -36,5 +36,6 @@ public class findx {
         if (f == 0) {
             System.out.println("Not found");
         }
+        sc.close();
     }
 }

@@ -12,5 +12,6 @@ public class javaInitalization {
             System.out.println(mark[i]);
             // java intilize empty array set as 0
         }
+        sc.close();
     }
 }
