@@ -9,7 +9,7 @@ public class subString {
 
         System.out.println(sub);
 
-        sub = name.substring(9);// beigning will be 0 and ending will be 9-1 as defualt
+        sub = name.substring(9);// beigning will be 9 and ending is upto last
         System.out.println(sub);
     }
 }
