@@ -1,6 +1,7 @@
 package bitManupulation;
 
 import java.util.Scanner;
+// begninner must udnerstand and practcies this for the good logical understanding
 
 public class q4 {
     public static void binarytoDecimal() {
@@ -15,7 +16,7 @@ public class q4 {
 
             }
         }
-        System.err.println(dec);
+        System.out.println(dec);
         sc.close();
         return;
 
