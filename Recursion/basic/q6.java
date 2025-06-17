@@ -1,6 +1,6 @@
 // power 
 
-package Recursion;
+package basic;
 
 import java.util.Scanner;
 

@@ -1,5 +1,5 @@
 // Fibbo series
-package Recursion;
+package basic;
 
 import java.util.Scanner;
 

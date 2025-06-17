@@ -1,6 +1,6 @@
 // factorial of n 
 
-package Recursion;
+package basic;
 
 import java.util.Scanner;
 

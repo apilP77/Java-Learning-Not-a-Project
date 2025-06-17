@@ -1,6 +1,6 @@
 // from 1 to n
 
-package Recursion;
+package basic;
 
 import java.util.Scanner;
 

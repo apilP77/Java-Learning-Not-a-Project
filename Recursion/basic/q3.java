@@ -1,6 +1,6 @@
 
 // some of n natural numbers
-package Recursion;
+package basic;
 
 import java.util.Scanner;
 
