@@ -5,18 +5,21 @@ class Students {
     int age;
     String name;
 
+    Students() {
+    }// default
+
     Students(int age) {
         this.age = age;
 
     }
 
-    Students(int age, String name) {
+    Students(int age, String name) {// parametized
         this.age = age;
         this.name = name;
 
     }
 
-    Students(Students s) {
+    Students(Students s) {// copy construstor
         this.name = s.name;
         this.age = s.age;
 
@@ -31,7 +34,7 @@ class Students {
 public class constructorexe {
     public static void main(String[] args) {
         Students s1 = new Students(21, "apil");
-        s1.printinfo();
+        // s1.printinfo();
         Students s2 = new Students(s1);
         s2.printinfo();
     }
