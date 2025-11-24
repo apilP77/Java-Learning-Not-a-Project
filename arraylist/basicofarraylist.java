@@ -37,7 +37,7 @@ class basicOfArraylist {
 
         // collections / sorts
 
-        Collection.sorts(list);
+        // Collection.sorts(list);
         System.out.println(list);
     }
 }
